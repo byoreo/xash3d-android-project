@@ -1,2 +1,2 @@
-# xash3d-android-project
-xash3d android project fixed builds
+### Xash3D
+Xash3D fixed builds
